@@ -1,0 +1,89 @@
+5 countries or cities
+include subpages linked to the flag images
+> image
+> three places you’d like to visit
+> external links to more info
+> compress into zip folder and drop into project folder on basecamp
+
+
+—————————————————————
+Seoul, South Korea
+https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg
+http://english.visitkorea.or.kr/enu/index.kto
+http://english.visitseoul.net/index
+
+IMG
+https://static.panoramio.com.storage.googleapis.com/photos/large/75963876.jpg
+http://www.remotelands.com/blog/wp-content/uploads/2013/03/Taking-a-Stroll-Through-Seoul-The-Streets-of-South-Korea’s-Capital_main.jpg
+
+—————————————————————
+
+Tokyo, Japan
+https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg
+http://us.jnto.go.jp/top/index.php
+https://www.gotokyo.org/en/
+
+IMG
+http://www.travelience.com/wp-content/uploads/2013/09/Shibuya.jpg
+https://media.cntraveler.com/photos/56e9aa4144770bed78864d9e/master/pass/NAKAMEGURO-japan-cherry-blossom-cr-getty.jpg
+
+—————————————————————
+HCM City, Vietnam
+https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg
+https://www.travelvietnam.com
+https://www.worldtravelguide.net/guides/asia/vietnam/ho-chi-minh-city/
+
+IMG
+http://media.crossingtravel.com/files/tag/2015/09/27/ho-chi-minh-city-3192.jpeg
+Picture of the Saigon Notre-Dame Cathedral in Ho Chi Minh City, 
+
+—————————————————————
+Singapore, Singapore
+https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg
+http://www.visitsingapore.com/travel-guide-tips.html
+https://www.lonelyplanet.com/singapore
+
+IMG
+http://ynottravelntours.com/wp-content/uploads/2017/01/singapore-header.jpg
+
+—————————————————————
+Barcelona, Spain
+https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg
+http://www.spain.info/en_US/
+http://www.barcelonaturisme.com/wv3/en/
+
+IMG
+https://iaufrance.org/content/uploads/cms/images/barcelona-spain.jpg
+
+—————————————————————
+
+1024 x 500
+
+
+		<table>
+			<tr>
+				<th>Destination</th>
+				<th>Capital</th>
+				<th>Official/National Language</th>
+			</tr>
+			<tr>
+				<td>South Korea</td>
+				<td>Seoul</td>
+				<td>Korean</td>
+			</tr>
+			<tr>
+				<td>Japan</td>
+				<td>Tokyo</td>
+				<td>Japanese</td>
+			</tr>
+			<tr>
+				<td>Vietnam</td>
+				<td>Hanoi</td>
+				<td>Vietnamese</td>
+			</tr>
+			<tr>
+				<td>Singapore</td>
+				<td>Singapore</td>
+				<td>English, Malay, Mandarin, Tamil</td>
+			</tr>
+		</table>
