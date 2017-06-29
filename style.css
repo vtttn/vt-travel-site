@@ -281,3 +281,7 @@
 .travel:hover #plane{ 
 	display: inline; 
 }
+
+a:hover{
+	color: green;
+}
