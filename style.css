@@ -74,8 +74,8 @@
 }
 
 .btn-style:hover{
-	background-color: #fff;
-	color: red;
+	background-color: rgba(225,225,225,0.1);
+	border: 1px solid #fff;
 }
 
 /* HEADING BANNER */
@@ -280,8 +280,4 @@
 
 .travel:hover #plane{ 
 	display: inline; 
-}
-
-a:hover{
-	color: green;
 }
